@@ -1,0 +1,30 @@
+------------------------------------ALGORITMOS GENETICOS----------------------- 
+https://www.degruyter.com/document/doi/10.1515/jisys-2014-0173/html
+https://www.researchgate.net/publication/249562088_Genetic_Algorithms_in_Visual_Art_and_Music
+https://www.c-sharpcorner.com/article/using-genetic-algorithms-to-generate-evolutionary-art-in-C-Sharp/
+https://es-clip.github.io/
+
+Incluye repositorio github:
+https://shahriyarshahrabi.medium.com/procedural-paintings-with-genetic-evolution-algorithm-6838a6e64703
+
+El articulo mas relacionado donde puede obtenerse la base de datos.
+https://www.hindawi.com/journals/complexity/2021/6668929/#related-articles
+
+https://www.youtube.com/watch?v=g-XMwOFmawM
+
+genetic algorithm dataset csv file
+https://github.com/nhrigby/genetic_algorithm_challenge
+https://www.kaggle.com/code/marlesson/simple-genetic-algorithm/notebook
+https://www.kaggle.com/code/marlesson/genetic-algorithm-with-deap/notebook
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-3400-6
+https://towardsdatascience.com/simple-genetic-algorithm-by-a-simple-developer-in-python-272d58ad3d19
+https://python-forum.io/thread-29261.html
+https://www.analyticsvidhya.com/blog/2017/07/introduction-to-genetic-algorithm/
+https://www.cienciadedatos.net/documentos/48_optimizacion_con_algoritmo_genetico
+
+
+
+
+
+
+
